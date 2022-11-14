@@ -1,0 +1,7 @@
+// Vitest Snapshot v1
+
+exports[`LoaderSpinner suite > Snapshot 1`] = `
+"<div class=\\"loader-wrapper\\" data-v-7afe7fb8=\\"\\">
+  <div class=\\"loader\\" data-v-7afe7fb8=\\"\\"></div>
+</div>"
+`;

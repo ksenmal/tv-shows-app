@@ -1,0 +1,3 @@
+// Vitest Snapshot v1
+
+exports[`ShowCard suite > Snapshot 1`] = `"<router-link-stub to=\\"/show/1234567\\" replace=\\"false\\" custom=\\"false\\" ariacurrentvalue=\\"page\\" data-v-3daf941c=\\"\\"></router-link-stub>"`;

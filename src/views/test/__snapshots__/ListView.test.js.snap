@@ -1,0 +1,9 @@
+// Vitest Snapshot v1
+
+exports[`ListView suite > ListView snapshot 1`] = `
+"<genre-list-stub data-v-2b1d45bd=\\"\\"></genre-list-stub>
+<main data-v-2b1d45bd=\\"\\">
+  <h2 data-v-2b1d45bd=\\"\\">Popular shows of all times</h2>
+  <shows-list-stub list=\\"\\" data-v-2b1d45bd=\\"\\"></shows-list-stub>
+</main>"
+`;

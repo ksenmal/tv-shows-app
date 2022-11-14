@@ -1,0 +1,14 @@
+// Vitest Snapshot v1
+
+exports[`ActorsList suite > Snapshot when empty 1`] = `"<ul data-v-d83a9334=\\"\\"></ul>"`;
+
+exports[`ActorsList suite > Snapshot with data 1`] = `
+"<ul data-v-d83a9334=\\"\\">
+  <li data-v-d83a9334=\\"\\">
+    <actor-card-stub actor=\\"[object Object]\\" data-v-d83a9334=\\"\\"></actor-card-stub>
+  </li>
+  <li data-v-d83a9334=\\"\\">
+    <actor-card-stub actor=\\"[object Object]\\" data-v-d83a9334=\\"\\"></actor-card-stub>
+  </li>
+</ul>"
+`;

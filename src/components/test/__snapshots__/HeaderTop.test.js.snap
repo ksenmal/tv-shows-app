@@ -1,0 +1,10 @@
+// Vitest Snapshot v1
+
+exports[`HeaderTop component test suite > Snapshot match 1`] = `
+"<header data-v-bfc77041=\\"\\">
+  <div class=\\"wrapper\\" data-v-bfc77041=\\"\\">
+    <spy-stub to=\\"/\\" data-v-bfc77041=\\"\\"></spy-stub>
+    <div class=\\"search\\" data-v-bfc77041=\\"\\"><input placeholder=\\"Search\\" data-v-bfc77041=\\"\\"><button data-v-bfc77041=\\"\\">Go</button></div>
+  </div>
+</header>"
+`;

@@ -1,0 +1,9 @@
+// Vitest Snapshot v1
+
+exports[`NotFoundView suite > NotFoundView snapshot 1`] = `
+"<div class=\\"page-not-found\\" data-v-071430af=\\"\\">
+  <p data-v-071430af=\\"\\">Page not found.</p>
+  <p data-v-071430af=\\"\\">Go to <router-link-stub to=\\"/\\" replace=\\"false\\" custom=\\"false\\" ariacurrentvalue=\\"page\\" data-v-071430af=\\"\\"></router-link-stub>
+  </p>
+</div>"
+`;

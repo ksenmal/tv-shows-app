@@ -1,0 +1,24 @@
+// Vitest Snapshot v1
+
+exports[`GenreList suite > Snapshot 1`] = `
+"<nav>
+  <router-link-stub to=\\"/action\\" replace=\\"false\\" custom=\\"false\\" ariacurrentvalue=\\"page\\"></router-link-stub>
+  <router-link-stub to=\\"/adventure\\" replace=\\"false\\" custom=\\"false\\" ariacurrentvalue=\\"page\\"></router-link-stub>
+  <router-link-stub to=\\"/anime\\" replace=\\"false\\" custom=\\"false\\" ariacurrentvalue=\\"page\\"></router-link-stub>
+  <router-link-stub to=\\"/children\\" replace=\\"false\\" custom=\\"false\\" ariacurrentvalue=\\"page\\"></router-link-stub>
+  <router-link-stub to=\\"/comedy\\" replace=\\"false\\" custom=\\"false\\" ariacurrentvalue=\\"page\\"></router-link-stub>
+  <router-link-stub to=\\"/crime\\" replace=\\"false\\" custom=\\"false\\" ariacurrentvalue=\\"page\\"></router-link-stub>
+  <router-link-stub to=\\"/drama\\" replace=\\"false\\" custom=\\"false\\" ariacurrentvalue=\\"page\\"></router-link-stub>
+  <router-link-stub to=\\"/family\\" replace=\\"false\\" custom=\\"false\\" ariacurrentvalue=\\"page\\"></router-link-stub>
+  <router-link-stub to=\\"/fantasy\\" replace=\\"false\\" custom=\\"false\\" ariacurrentvalue=\\"page\\"></router-link-stub>
+  <router-link-stub to=\\"/horror\\" replace=\\"false\\" custom=\\"false\\" ariacurrentvalue=\\"page\\"></router-link-stub>
+  <router-link-stub to=\\"/medical\\" replace=\\"false\\" custom=\\"false\\" ariacurrentvalue=\\"page\\"></router-link-stub>
+  <router-link-stub to=\\"/music\\" replace=\\"false\\" custom=\\"false\\" ariacurrentvalue=\\"page\\"></router-link-stub>
+  <router-link-stub to=\\"/nature\\" replace=\\"false\\" custom=\\"false\\" ariacurrentvalue=\\"page\\"></router-link-stub>
+  <router-link-stub to=\\"/sports\\" replace=\\"false\\" custom=\\"false\\" ariacurrentvalue=\\"page\\"></router-link-stub>
+  <router-link-stub to=\\"/supernatural\\" replace=\\"false\\" custom=\\"false\\" ariacurrentvalue=\\"page\\"></router-link-stub>
+  <router-link-stub to=\\"/thriller\\" replace=\\"false\\" custom=\\"false\\" ariacurrentvalue=\\"page\\"></router-link-stub>
+  <router-link-stub to=\\"/travel\\" replace=\\"false\\" custom=\\"false\\" ariacurrentvalue=\\"page\\"></router-link-stub>
+  <router-link-stub to=\\"/western\\" replace=\\"false\\" custom=\\"false\\" ariacurrentvalue=\\"page\\"></router-link-stub>
+</nav>"
+`;

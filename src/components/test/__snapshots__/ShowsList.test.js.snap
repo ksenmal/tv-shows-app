@@ -1,0 +1,14 @@
+// Vitest Snapshot v1
+
+exports[`ShowList suite > Snapshot when empty 1`] = `"<p class=\\"empty-list-msg\\" data-v-f5a7670e=\\"\\">No TV shows found</p>"`;
+
+exports[`ShowList suite > Snapshot with data 1`] = `
+"<ul class=\\"show-list\\" data-v-f5a7670e=\\"\\">
+  <li class=\\"list-item\\" data-v-f5a7670e=\\"\\">
+    <show-card-stub item=\\"[object Object]\\" data-v-f5a7670e=\\"\\"></show-card-stub>
+  </li>
+  <li class=\\"list-item\\" data-v-f5a7670e=\\"\\">
+    <show-card-stub item=\\"[object Object]\\" data-v-f5a7670e=\\"\\"></show-card-stub>
+  </li>
+</ul>"
+`;

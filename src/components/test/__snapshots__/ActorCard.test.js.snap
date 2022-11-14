@@ -1,0 +1,9 @@
+// Vitest Snapshot v1
+
+exports[`ActorCard suite > Snapshot 1`] = `
+"<img src=\\"https://example.com/img.jpg\\" alt=\\"Jon Snow\\" data-v-b810ceff=\\"\\">
+<div data-v-b810ceff=\\"\\">
+  <p class=\\"actor-name\\" data-v-b810ceff=\\"\\">Kit Harington</p>
+  <p data-v-b810ceff=\\"\\"> as <span class=\\"character-name\\" data-v-b810ceff=\\"\\">Jon Snow</span></p>
+</div>"
+`;

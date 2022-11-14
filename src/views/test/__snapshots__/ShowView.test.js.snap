@@ -1,0 +1,3 @@
+// Vitest Snapshot v1
+
+exports[`ShowView suite > ShowView snapshot 1`] = `"<p class=\\"no-show-msg\\" data-v-06c226f2=\\"\\">Show cannot be found</p>"`;
